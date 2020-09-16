@@ -38,7 +38,7 @@ As the requirement is to predicit the probability of whether the respondents rec
 
 [Logistic Regression]()
 
-[Random Forests]()
+[Random Forests](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/Model-2_RandomF.ipynb)
 
 [Decision Trees](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/Flu%20Capstone%20-%20Decision%20Trees.ipynb)
 
