@@ -29,18 +29,18 @@ At the time of writing this the UK and the majority of the world are under lockd
 
 Aimed to predict the probability of individuals with varying socio-economic factors getting the H1N1 and or seasonal vaccines. Used the Multi-Output Classifier with Logistic Regression, Random Forest, and Decision trees classifiers to model the probabilities and gain insights into the important features of the data.
 
-[### Data Preparation and Cleaning]()
+[Data Preparation and Cleaning]()
 
-[### Exploratory Data Analysis]()
+[Exploratory Data Analysis]()
 
 ## Modelling - Multi-Outout Classifier
-[### Logistic Regression]()
+[Logistic Regression]()
 
-[### Random Forests]()
+[Random Forests]()
 
-[### Decision Trees]()
+[Decision Trees]()
 
-[### Presentation]()
+[Presentation]()
 
 ## Findings and Overview
 
