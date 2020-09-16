@@ -42,7 +42,7 @@ As the requirement is to predicit the probability of whether the respondents rec
 
 [Decision Trees]()
 
-[Presentation]()
+[Presentation](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/Flu_vaccine.pptx)
 
 ## Findings and Overview
 
