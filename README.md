@@ -33,7 +33,9 @@ Aimed to predict the probability of individuals with varying socio-economic fact
 
 [Exploratory Data Analysis]()
 
-## Modelling - Multi-Outout Classifier
+## Modelling - Multi-Output Classifier
+As the requirement is to predicit the probability of whether the respondents receive the H1N1 vaccine and, or the seasonal vaccine I used the Multi-output classification model. This allows our models to accomodate more than two possible probability values.
+
 [Logistic Regression]()
 
 [Random Forests]()
