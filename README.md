@@ -36,7 +36,7 @@ Aimed to predict the probability of individuals with varying socio-economic fact
 ## Modelling - Multi-Output Classifier
 As the requirement is to predicit the probability of whether the respondents receive the H1N1 vaccine and, or the seasonal vaccine I used the Multi-output classification model. This allows our models to accomodate more than two possible probability values.
 
-[Logistic Regression]()
+[Logistic Regression](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/Logistic%20Regression%20-%20Flu%20Capstone.ipynb)
 
 [Random Forests](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/Model-2_RandomF.ipynb)
 
