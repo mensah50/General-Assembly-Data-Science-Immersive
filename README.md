@@ -7,7 +7,7 @@ The projects were as follows:
 [**Project 1:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/project-1-v2-starter-code.ipynb)
 Pokedex - Programming a prototype version of the game and analyze the planned content to help the team calibrate the design using Python
 
-[**Project 2:**]()
+[**Project 2:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/project-02-v2-starter-code.ipynb)
 Exploratory Data Analysis (EDA)  - Performing EDA on Maths and English SAT Scores
 
 [**Project 3:**]()
