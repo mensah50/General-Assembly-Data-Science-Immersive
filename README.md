@@ -19,7 +19,7 @@ Through this link you can view the code that relates to the EDA steps taken befo
 [**Project 3 - Part 2:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/project-03-starter-pt2.ipynb)
 Through this link you can view the code that related to the modelling of the Housing Data 
 
-[**Project 4:**]()
+[**Project 4:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/starter_code.ipynb)
 Web Scraping Data roles from Indeed.com and Predicting Salaries
 
 [**Capstone Project:**]()
