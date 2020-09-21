@@ -10,8 +10,12 @@ Pokedex - Programming a prototype version of the game and analyze the planned co
 [**Project 2:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/project-02-v2-starter-code.ipynb)
 Exploratory Data Analysis (EDA)  - Performing EDA on Maths and English SAT Scores
 
-[**Project 3:**]()
+**Project 3:**
 Regression and Classification with the Ames Housing Data - Estimating the value of homes from fixed characteristics: Using Lasso, Ridge modelling techniques
+
+[**Project 3 - Part 1:**]()
+
+[**Project 3 - Part 2:**]()
 
 [**Project 4:**]()
 Web Scraping Data roles from Indeed.com and Predicting Salaries
