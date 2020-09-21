@@ -13,7 +13,7 @@ Exploratory Data Analysis (EDA)  - Performing EDA on Maths and English SAT Score
 **Project 3:**
 Regression and Classification with the Ames Housing Data - Estimating the value of homes from fixed characteristics: Using Lasso, Ridge modelling techniques
 
-[**Project 3 - Part 1:**]()
+[**Project 3 - Part 1:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/project-03-starter-pt1.ipynb)
 
 [**Project 3 - Part 2:**]()
 
