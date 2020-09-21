@@ -11,11 +11,13 @@ Pokedex - Programming a prototype version of the game and analyze the planned co
 Exploratory Data Analysis (EDA)  - Performing EDA on Maths and English SAT Scores
 
 **Project 3:**
-Regression and Classification with the Ames Housing Data - Estimating the value of homes from fixed characteristics: Using Lasso, Ridge modelling techniques
+Regression and Classification with the Ames Housing Data - Estimating the value of homes from fixed characteristics: Using Lasso, Ridge modelling techniques.I have broken this down into two parts as I was unable to upload the code in its entirety
 
 [**Project 3 - Part 1:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/project-03-starter-pt1.ipynb)
+Through this link you can view the code that relates to the EDA steps taken before proceeding with modelling the data 
 
-[**Project 3 - Part 2:**]()
+[**Project 3 - Part 2:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/project-03-starter-pt2.ipynb)
+Through this link you can view the code that related to the modelling of the Housing Data 
 
 [**Project 4:**]()
 Web Scraping Data roles from Indeed.com and Predicting Salaries
