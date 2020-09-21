@@ -1,5 +1,5 @@
 # General-Assembly-Data-Science-Immersive
-## Projects and Capstone Project
+## Projects
 
 This repository has been made public to show case the work that I completed through June to August 2020 during my time with General Assembly on their Data Science Immersive course.All projects were solo projects. 
 The projects were as follows:
@@ -22,10 +22,10 @@ Through this link you can view the code that related to the modelling of the Hou
 [**Project 4:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/starter_code.ipynb)
 Web Scraping Data roles from Indeed.com and Predicting Salaries
 
-## [**Capstone Project:**]()
+## Capstone Project
 Flu Shot Learning - Predict H1N1 AND Seasonal Flu Vaccine (Data Driven Competition)
 
-
+<img src=" " width="800px" height="auto">
 
 This includes the code and presentation related to my Capstone Project for the Data Science Immersive I completed in September 2020 with General Assembly. The Project was based on predicting the probability of various respondents with different socio-economic backgrounds having the the H1N1 vaccine, seasonal vaccine or both. This was based on a Driven Data competition.
 
