@@ -22,7 +22,7 @@ Through this link you can view the code that related to the modelling of the Hou
 [**Project 4:**](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/starter_code.ipynb)
 Web Scraping Data roles from Indeed.com and Predicting Salaries
 
-## Capstone Project
+# Capstone Project
 Flu Shot Learning - Predict H1N1 AND Seasonal Flu Vaccine (Data Driven Competition)
 
 <img src="https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/flu.jpeg" width="800px" height="auto">
