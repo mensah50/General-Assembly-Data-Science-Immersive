@@ -31,7 +31,7 @@ This includes the code and presentation related to my Capstone Project for the D
 
 ## Background
 
-At the time of writing this the UK and the majority of the world are under lockdown restrictions due to the Coronavirus. Discussions around the requirement of a vaccine have reached fever pitch with varying schools of thought around the development of a vaccine and also those that are for and opposed to even receiving the vaccine. This sparked my interest into whether there were any determining factors that could impact individuals likelihood to accept a potential vaccine. Coincidentially when considering the approach on how to accquire the data I came across the Data Driven Competition which provided a data set for me to work with. Please not that the data will not be shared on in this repository.
+At the time of writing this, the UK and the majority of the world were under lockdown restrictions due to the Coronavirus. Discussions around the requirement of a vaccine have reached fever pitch with varying schools of thought around the development of a vaccine and also those that are for and opposed to even receiving the vaccine. This sparked my interest into whether there were any determining factors that could impact individuals likelihood to accept a potential vaccine. Coincidentially, when considering the approach on how to accquire the data I came across the Data Driven Competition which provided a data set for me to work with. Please note that the data will not be shared on in this repository.
 
 ## Methodology and Approach
 
@@ -42,7 +42,7 @@ Aimed to predict the probability of individuals with varying socio-economic fact
 [Exploratory Data Analysis]()
 
 ## Modelling - Multi-Output Classifier
-As the requirement is to predicit the probability of whether the respondents receive the H1N1 vaccine and, or the seasonal vaccine I used the Multi-output classification model. This allows our models to accomodate more than two possible probability values.
+As the requirement is to predicit the probability of whether the respondents receive the H1N1 vaccine and/or the seasonal vaccine, I used the Multi-output classification model. This allows our models to accomodate more than two possible probability values.
 
 [Logistic Regression](https://github.com/mensah50/General-Assembly-Data-Science-Immersive/blob/master/Logistic%20Regression%20-%20Flu%20Capstone.ipynb)
 
@@ -54,4 +54,4 @@ As the requirement is to predicit the probability of whether the respondents rec
 
 ## Findings and Overview
 
-The best results were achieved with the Random Forest model with a ROC AUC score of 0.85. When looking at the important features, it was apparent that the respondents' opinion of the risk of the seasonal flu vaccine and its effectiveness, whether their doctor had recommended the vaccines, and whether they had health insurance were critical influencers in determining the probability of them having the vaccines or not.
+The best results were achieved with the Random Forest model with a ROC AUC score of 0.85. When looking at the important features, it was apparent that the respondents' opinion of the risk of the seasonal flu vaccine and its effectiveness, were critical influencers in determining the probability of them having the vaccines or not.
